@@ -1,3 +1,6 @@
+File S1. Source code and sample network for reproducing the analysis.
+This archive contains Python and R notebooks implementing the simulation models and graph construction procedures used in the study. A sample network file is included to demonstrate execution. The notebooks can be run in standard environments such as Google Colab and include all necessary steps to obtain the presented results.
+
 # Code and Data
 
 ## Files
